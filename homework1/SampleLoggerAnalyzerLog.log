@@ -1,0 +1,22 @@
+[2021.03.18 01:03:35] I Error percentage:0.0
+[2021.03.18 01:03:37] I Error percentage:0.0
+[2021.03.18 01:03:38] I Error percentage:0.0
+[2021.03.18 01:05:06] I Error percentage:0.0
+[2021.03.18 01:05:08] I Error percentage:0.0
+[2021.03.18 01:05:09] I Error percentage:0.0
+[2021.03.18 01:05:25] I Error percentage:0.0
+[2021.03.18 01:05:27] I Error percentage:0.0
+[2021.03.18 01:05:28] I Error percentage:0.0
+[2021.03.18 01:09:38] I Start processing filenginx-access-ui.log-20180630
+[2021.03.18 01:09:38] I отчет report-2018.06.30.html уже сформирован.
+[2021.03.18 01:10:40] I Start processing filenginx-access-ui.log-20180630
+[2021.03.18 01:10:40] I отчет report-2018.06.30.html уже сформирован.
+[2021.03.18 01:11:29] I Start processing filenginx-access-ui.log-20180630
+[2021.03.18 01:11:29] I отчет report-2018.06.30.html уже сформирован.
+[2021.03.18 01:12:24] E Логов по данному шаблону не найдено
+Traceback (most recent call last):
+  File "C:\Users\user\PycharmProjects\homework1\venv\gor git\log_analyzer.py", line 120, in find_last_log
+    proceeded_log = max(logs)
+ValueError: max() arg is an empty sequence
+[2021.03.18 01:13:52] I Start processing filenginx-access-ui.log-20180630
+[2021.03.18 01:13:52] I отчет report-2018.06.30.html уже сформирован.
